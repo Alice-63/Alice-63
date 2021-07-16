@@ -12,6 +12,6 @@ How to find me:
 
 
 
-[![Alice-63's github stats](https://github-readme-stats.vercel.app/api?username=Alice-63&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Alice-63's github stats](https://github-readme-stats.vercel.app/api?username=Alice-63&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Alice-63/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

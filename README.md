@@ -16,8 +16,6 @@ Skills: VUE JS / JQUERY / JS / HTML / CSS
 - 🔭 I’m currently working on My own company 
 
 
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=alice-63&show_icons=true&count_private=true)
-
 
 
 

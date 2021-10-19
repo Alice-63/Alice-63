@@ -20,8 +20,7 @@ Skills:  HTML / CSS / BOOTSTRAP / JS / JQUERY / VUE JS / PHP / MySQL
 How to find me: 
 
   - :office: [LinkedIn](https://www.linkedin.com/in/ali-cetindag-560967208/),
-  - :office: [Xing] (https://www.xing.com/profile/Ali_Cetindag/cv)
-
+  - :office: [Xing](https://www.xing.com/profile/Ali_Cetindag/cv)
 
 
 

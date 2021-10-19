@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 
 ### Hi there 👋, Ali Cetindag
@@ -11,7 +9,7 @@
 
 I am Ali from Germany, and I do content Desing and Development. I really enjoy learning languages and frameworks.
 
-Skills: VUE JS / JQUERY / JS / HTML / CSS
+Skills:  HTML / CSS / BOOTSTRAP / JS / JQUERY / VUE JS / PHP / MySQL
 
 - 🔭 I’m currently working on My own company 
 
@@ -21,7 +19,8 @@ Skills: VUE JS / JQUERY / JS / HTML / CSS
 
 How to find me: 
 
-  - :office: [LinkedIn](https://www.linkedin.com/in/ali-cetindag-560967208/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/ali-cetindag-560967208/),
+  - :office: [Xing] (https://www.xing.com/profile/Ali_Cetindag/cv)
 
 
 
